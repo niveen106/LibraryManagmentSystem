@@ -1,0 +1,51 @@
+[
+    {
+        "user_id": "n1",
+        "name": "Niveen Nasereddin",
+        "borrowed_items": [
+            "mg01"
+        ]
+    },
+    {
+        "user_id": "j2",
+        "name": "John Doe",
+        "borrowed_items": []
+    },
+    {
+        "user_id": "j3",
+        "name": "Jane Smith",
+        "borrowed_items": []
+    },
+    {
+        "user_id": "a4",
+        "name": "Alice Johnson",
+        "borrowed_items": []
+    },
+    {
+        "user_id": "b5",
+        "name": "Bob Brown",
+        "borrowed_items": []
+    },
+    {
+        "user_id": "r6",
+        "name": "ranin",
+        "borrowed_items": []
+    },
+    {
+        "user_id": "o7",
+        "name": "omar",
+        "borrowed_items": []
+    },
+    {
+        "user_id": "h8",
+        "name": "hanin",
+        "borrowed_items": []
+    },
+    {
+        "user_id": "s9",
+        "name": "shireen",
+        "borrowed_items": [
+            "1"
+        ]
+    }
+]

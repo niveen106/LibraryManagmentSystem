@@ -1,0 +1,38 @@
+[
+    {
+        "item_id": "1",
+        "title": "Introduction to Programming",
+        "auther": "John Smith",
+        "is_available": false,
+        "isbn": "978-3-16-148410-0",
+        "reserved_by": "j2",
+        "type": "Book"
+    },
+    {
+        "item_id": "bk01",
+        "title": "Python Basics",
+        "auther": "John Doe",
+        "is_available": false,
+        "isbn": "978-1-23-456789-0",
+        "reserved_by": "n1",
+        "type": "Book"
+    },
+    {
+        "item_id": "dv01",
+        "title": "python",
+        "auther": "Christopher Nolan",
+        "is_available": true,
+        "director": "Christopher Nolan",
+        "reserved_by": null,
+        "type": "DVD"
+    },
+    {
+        "item_id": "mg01",
+        "title": "National Geographic",
+        "auther": "Editorial Team",
+        "is_available": true,
+        "issn": "1234-5678",
+        "year": 2023,
+        "type": "Magazine"
+    }
+]
